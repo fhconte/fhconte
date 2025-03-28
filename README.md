@@ -1,5 +1,5 @@
-Hello! 👋
+Hi there! 👋
 
-I’m a Senior Front-end Engineer with over 12 years of tech experience. I've crafted web and mobile apps using the latest in ReactJS, TypeScript, NextJS, Jest, and more. I’m certified in JavaScript by Alura and Udemy, and currently diving into NodeJS with Rocketseat. My skills extend to advanced HTML5 and CSS3, and I’ve recently upskilled in GraphQL and Docker too.
+I'm a Senior Front-end Engineer with over 12 years of experience in technology. I specialize in developing and enhancing web and mobile applications using cutting-edge tools like ReactJS, TypeScript, NextJS, and Jest. My solid foundation in HTML5 and CSS3 is complemented by JavaScript certifications from Alura and Udemy. Currently, I'm deepening my NodeJS skills at Rocketseat and have recently expanded my expertise with training in GraphQL and Docker.
 
-I've contributed to diverse projects in healthcare, automotive, educational and banking for clients like Levante, Unimed, Volvo, and Banco Next, focusing on UI development, BDD, microfrontends, design systems, performance optimization, and accessibility. My goal? Deliver solutions that tackle business challenges and elevate the user experience.
+Throughout my career, I've mastered the entire front-end domain, working on diverse projects in sectors like healthcare, automotive, educational and banking for clients such as Levante, Unimed, Volvo, and Next. My focus areas include UI development, TDD/BDD, microfrontends, design systems, performance optimization, and accessibility. I am committed to delivering solutions that effectively tackle business challenges and significantly enhance user experience.
