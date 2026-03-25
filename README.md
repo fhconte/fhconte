@@ -1,5 +1,9 @@
-Hi there! 👋
+Hi there 👋
 
-I'm a Web Engineer with around 15 years of experience in technology, specializing in building and improving web applications using modern tools like ReactJS, VueJS, TypeScript, NextJS, Cypress, and Jest. I have a strong foundation in HTML5 and CSS3, backed by JavaScript certifications from Alura and Udemy. Currently, I’m deepening my skills in JavaScript and NodeJS through Rocketseat, and recently expanded my expertise with training in GraphQL and Docker.
+I’m a Web Engineer with around 15 years of experience working with web technologies. Day to day, I work on building, refactoring, and maintaining web applications, usually close to product and business needs, making sure things are stable, scalable, and pleasant to use.
 
-Over the years, I’ve worked across the full front-end spectrum on diverse projects in industries such as healthcare, automotive, education, and banking — serving clients like Levante, Unimed, Volvo, and Next. My key focus areas include UI development, TDD/BDD, microfrontends, design systems, performance optimization, and accessibility. I'm driven to deliver solutions that not only address complex business needs but also elevate user experience.
+My main stack today revolves around React, Vue, TypeScript, and Next.js, along with testing tools like Cypress and Jest. I have a strong base in HTML and CSS, and over the years I’ve focused a lot on writing clean UI code, improving performance, and making interfaces more accessible and easier to maintain. Lately, I’ve been deepening my JavaScript and Node.js knowledge at Rocketseat, and I’ve also been expanding into GraphQL and Docker.
+
+I’ve worked across different industries — healthcare, automotive, education, and banking — contributing to products for companies like Levante, Unimed, Volvo, and Next. I enjoy getting involved in discussions around architecture, design systems, testing strategies, and gradual refactors that help teams move faster without breaking things.
+
+Overall, I’m someone who likes to understand the problem first, collaborate closely with the team, and deliver solutions that actually make sense for the business and for the people using the product.
