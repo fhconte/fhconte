@@ -1,6 +1,6 @@
 Hi there 👋
 
-I’m a Web Engineer with around 15 years of experience working with web technologies. Day to day, I work on building, refactoring, and maintaining web applications, usually close to product and business needs, making sure things are stable, scalable, and pleasant to use. I
+I’m a Web Engineer with around 15 years of experience working with web technologies. Day to day, I work on building, refactoring, and maintaining web applications, usually close to product and business needs, making sure things are stable, scalable, and pleasant to use.
 
 My main stack today revolves around React, Vue, TypeScript, and Next.js, along with testing tools like Cypress and Jest. I have a strong base in HTML and CSS, and over the years I’ve focused a lot on writing clean UI code, improving performance, and making interfaces more accessible and easier to maintain. Lately, I’ve been deepening my JavaScript and Node.js knowledge at Rocketseat, and I’ve also been expanding into GraphQL and Docker.
 
