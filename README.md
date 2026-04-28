@@ -6,4 +6,6 @@ My main stack today revolves around React, Vue, TypeScript, and Next.js, along w
 
 I’ve worked across different industries — healthcare, automotive, education, and banking — contributing to products for companies like Levante, Unimed, Volvo, and Next. I enjoy getting involved in discussions around architecture, design systems, testing strategies, and gradual refactors that help teams move faster without breaking things.
 
-Overall, I’m someone who likes to understand the problem first, collaborate closely with the team, and deliver solutions that actually make sense for the business and for the people using the product. In my free time, I collect and mix vinyl records, study, stay active, and travel whenever I can.
+Overall, I’m someone who likes to understand the problem first, collaborate closely with the team, and deliver solutions that actually make sense for the business and for the people using the product. 
+
+In my free time, I collect and mix vinyl records, study, stay active, and travel whenever I can.
